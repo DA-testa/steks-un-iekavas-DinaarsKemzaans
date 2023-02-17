@@ -1,4 +1,4 @@
-#17.02.2023
+#Dinārs Kemzāns 221RDB321 17. grupa
 from collections import namedtuple
 
 Bracket = namedtuple("Bracket", ["char", "position"])
